@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 蒋玥的个人博客
+title: 张恺的个人博客
 subtitle: Welcome to my own blog of jyeric
 description: jyeric
 keywords: noip、noi、oi、acm
-author: 蒋玥
+author: 张恺
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.likecoding.ooo
+url: https://inspiring-montalcini-0165d2.netlify.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
